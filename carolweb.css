@@ -1,8 +1,9 @@
 body {
   width: 50%;
   font-family: Helvetica;
+  background-color: linen;
 }
 
-h3 {
+h3, h4 {
   color: #991a1a;
 }
